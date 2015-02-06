@@ -1,0 +1,23 @@
+{
+  "name": "projectieso",
+  "version": "0.1.0",
+  "description": "bower",
+  "keywords": [
+    "static"
+  ],
+  "authors": [
+    "itzel"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.2"
+  }
+}
