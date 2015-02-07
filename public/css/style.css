@@ -1,7 +1,18 @@
-body{
-	padding-top: 70px;
+html {
+	position: relative;
+	min-height: 100%;
 }
 
-#ejemplo{
-	border: 1px solid black;
+body {
+	padding-top: 70px;
+	margin-bottom: 60px;
+}
+
+footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	/* Set the fixed height of the footer here */
+	height: 40px;
+	background-color: #f5f5f5;
 }
